@@ -14,10 +14,10 @@
   * Replies
   * Relações entre hashtags
 
-3. Analisar a melhor forma de se criar um arquivo CSV para o Gephi que represente a rede desejada.
+3. Analisar a melhor forma de se criar um arquivo CSV ([ou outro formato qualquer suportado pelo Gephi](https://gephi.org/users/supported-graph-formats/)) que represente a rede desejada.
 
   * https://gephi.org/users/supported-graph-formats/csv-format/
 
-4. Criar código Python que processe os dados coletados, transformando-os no CSV.
+4. Criar [código Python](https://github.com/code4pol/lab-20160218/blob/master/processadordetweets.py) que processe os [dados coletados](https://github.com/code4pol/lab-20160204), transformando-os no CSV.
 
 5. Carregar o CSV gerado no Gephi para a geração de um grafo bem bonito :-)
